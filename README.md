@@ -31,3 +31,17 @@ Given the lack of detailed public data, creating a simulated/estimated dataset c
 - Economic Indicators: Such as unemployment rates or consumer confidence indices.
 
 By combining these variables, young students can engage in data cleaning, preprocessing, exploratory data analysis (EDA), and model training to identify factors influencing park attendance. This approach provides a realistic and educational experience in working with data, even in the absence of exact figures.
+
+## Possible Data Sources & Helps Already Existing
+
+*TouringPlans Data* 
+touringplans.com
+TouringPlans.com has available datasets for Disney World ride wait times for data science and machine learning projects. These data run from 2012 to present and cover various attractions across different parks
+
+*Walt Disney World Wait Times* 
+https://www.kaggle.com/datasets/ayushtankha/hackathon
+This dataset, available on Kaggle, contains measured and monitored (posted) wait times between 2015 and 2021, collected by the Touring Plans team.
+
+*Queue Times API*
+https://queue-times.com/en-US/pages/api
+Queue Times API provides access to live wait time data Disney World, as well as nearly 80 other parks. The database historical data goes back to 2014, making it one of the largest datasets of wait times available and trustyworthy.
