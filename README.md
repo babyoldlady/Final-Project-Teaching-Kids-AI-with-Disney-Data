@@ -3,7 +3,8 @@ A fun project designed for grade school students to explore data about Disney Wo
 
 Finding a comprehensive dataset with daily attendance figures for Disney World can be challenging, as Disney does not publicly disclose detailed attendance data. However, there are several resources and strategies you can consider to approximate or simulate the data needed for your educational project:
 
-### 1. Utilize Available Annual Attendance Figures###
+## Project Set-Up:
+### 1. Utilize Available Annual Attendance Figures
 While daily attendance numbers are scarce, annual attendance statistics for Disney World parks are available from various sources. For instance, the Magic Kingdom reported over 17.7 million visitors in 2023 according to this link (https://www.statista.com/statistics/232966/attendance-at-the-walt-disney-world-magic-kingdom-theme-park/?utm_source=chatgpt.com) on Statista.
 
 These annual figures can serve as a basis for estimating daily attendance.
