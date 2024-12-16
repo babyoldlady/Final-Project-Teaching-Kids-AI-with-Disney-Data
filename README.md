@@ -19,15 +19,15 @@ Using data from this link (https://www.thrill-data.com/trip-planning/crowd-calen
 ### 4. Simulate Data for Educational Purposes
 Given the lack of detailed public data, creating a simulated/estimated dataset can be an effective approach for your project. Generate a dataset with 2,500 rows and 10 columns, including variables such as:
 
--Date: Covering several years to provide a comprehensive view.
--Park Name: Identifying different parks within Disney World.
--Estimated Attendance: Using annual figures and known trends to estimate daily numbers.
--Day of the Week: To analyze patterns related to weekdays and weekends.
--Holiday Indicator: Marking major holidays and school vacation periods.
--Weather Conditions: Including variables like temperature and precipitation.
--Special Events: Noting days with parades, festivals, or extended hours.
--Ticket Prices: Reflecting any price changes over time.
--Marketing Campaigns: Indicating periods with significant promotions.
--Economic Indicators: Such as unemployment rates or consumer confidence indices.
+- Date: Covering several years to provide a comprehensive view.
+- Park Name: Identifying different parks within Disney World.
+- Estimated Attendance: Using annual figures and known trends to estimate daily numbers.
+- Day of the Week: To analyze patterns related to weekdays and weekends.
+- Holiday Indicator: Marking major holidays and school vacation periods.
+- Weather Conditions: Including variables like temperature and precipitation.
+- Special Events: Noting days with parades, festivals, or extended hours.
+- Ticket Prices: Reflecting any price changes over time.
+- Marketing Campaigns: Indicating periods with significant promotions.
+- Economic Indicators: Such as unemployment rates or consumer confidence indices.
 
 By combining these variables, young students can engage in data cleaning, preprocessing, exploratory data analysis (EDA), and model training to identify factors influencing park attendance. This approach provides a realistic and educational experience in working with data, even in the absence of exact figures.
